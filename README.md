@@ -19,3 +19,9 @@ Killall Finder
 defaults write com.apple.finder AppleShowAllFiles NO;
 Killall Finder
 ```
+
+## SSH 
+
+```bash
+ssh-keygen -t rsa -b 4096 -C "[email_address]"
+```
